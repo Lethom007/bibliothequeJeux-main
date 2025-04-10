@@ -1,4 +1,4 @@
-name: Build
+name: SonarTestBiblio
 on:
   push:
     branches:
