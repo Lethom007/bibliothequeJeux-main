@@ -4,7 +4,7 @@ using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace repertJeux
+namespace repertJeux //test
 {
     public partial class adminform : Form
     {
