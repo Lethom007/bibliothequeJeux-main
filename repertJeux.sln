@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repertJeux", "repertJeux.csproj", "{81459A2D-7B13-459F-81B0-0998DEA34BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81459A2D-7B13-459F-81B0-0998DEA34BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81459A2D-7B13-459F-81B0-0998DEA34BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81459A2D-7B13-459F-81B0-0998DEA34BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81459A2D-7B13-459F-81B0-0998DEA34BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D425A35-6DF6-424D-8D1B-CB48421BE60B}
+	EndGlobalSection
+EndGlobal
